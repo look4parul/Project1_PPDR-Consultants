@@ -1,0 +1,799 @@
+,Job titles,Code
+0,Special-10 Point Veteran,0001
+1,Special Master,0002
+2,Correctional Institution Administration,0006
+3,Correctional Officer,0007
+4,Bond Sales Promotion,0011
+5,Explosives Safety Series,0017
+6,Safety and Occupational Health Management,0018
+7,Safety Technician,0019
+8,Community Planning ,0020
+9,Community Planning Technician,0021
+10,Outdoor Recreation Planning,0023
+11,Park Ranger,0025
+12,Environmental Protection Specialist,0028
+13,Environmental Protection Assistant,0029
+14,Sports Specialist,0030
+15,Funeral Directing,0050
+16,Chaplain,0060
+17,Clothing Design,0062
+18,Fingerprint Identification,0072
+19,Security Administration,0080
+20,Fire Protection and Prevention,0081
+21,United States Marshal,0082
+22,Police,0083
+23,Nuclear Materials Courier,0084
+24,Security Guard,0085
+25,Security Clerical and Assistance,0086
+26,Emergency Management Specialist,0089
+27,Guide,0090
+28,Foreign Law Specialist,0095
+29,General Student Trainee,0099
+30,Social Science,0101
+31,Social Science Aid and Technician,0102
+32,Social Insurance Administration,0105
+33,Unemployment Insurance,0106
+34,Health Insurance Administration,0107
+35,Economist,0110
+36,Economics Assistant,0119
+37,Foreign Affairs,0130
+38,International Relations,0131
+39,Intelligence,0132
+40,Intelligence Aid And Clerk,0134
+41,Foreign Agricultural Affairs,0135
+42,International Cooperation,0136
+43,Workforce Research And Analysis,0140
+44,Workforce Development,0142
+45,Geography,0150
+46,Civil Rights Analysis,0160
+47,History,0170
+48,Psychology,0180
+49,Psychology Aid And Technician,0181
+50,Sociology,0184
+51,Social Work,0185
+52,Social Services Aid And Assistant,0186
+53,Social Services,0187
+54,Recreation Specialist,0188
+55,Recreation Aid And Assistant,0189
+56,General Anthropology,0190
+57,Archeology,0193
+58,Social Science Student Trainee,0199
+59,Human Resources Management,0201
+60,Human Resources Assistance,0203
+61,Mediation,0241
+62,Apprenticeship And Training,0243
+63,Labor-Management Relations Examining,0244
+64,Wage And Hour Compliance,0249
+65,Equal Employment Opportunity,0260
+66,Human Resources Management Student Trainee,0299
+67,Miscellaneous Administration And Program,0301
+68,Messenger,0302
+69,Miscellaneous Clerk And Assistant,0303
+70,Information Receptionist,0304
+71,Mail And File,0305
+72,Government Information Specialist,0306
+73,Records & Information Management,0308
+74,Correspondence Clerk,0309
+75,Work Unit Supervising,0313
+76,Secretary,0318
+77,Closed Microphone Reporter,0319
+78,Clerk-Typist,0322
+79,Office Automation Clerical And Assistance,0326
+80,Computer Operation,0332
+81,Computer Specialist (FAA Only),0334
+82,Computer Clerk And Assistant,0335
+83,Program Management,0340
+84,Administrative Officer,0341
+85,Support Services Administration,0342
+86,Management And Program Analysis,0343
+87,Management And Program Clerical And Assistance,0344
+88,Logistics Management,0346
+89,GAO Evaluator,0347
+90,Equipment Operator,0350
+91,Printing Clerk,0351
+92,Presidential Management Fellow,0352
+93,Data Transcriber,0356
+94,Coding,0357
+95,Equal Opportunity Compliance,0360
+96,Equal Opportunity Assistance,0361
+97,Telephone Operating,0382
+98,Telecommunications Processing,0390
+99,Telecommunications,0391
+100,General Telecommunications,0392
+101,Communications Clerical,0394
+102,Administration And Office Support Student Trainee,0399
+103,General Natural Resources Management And Biological Sciences,0401
+104,Microbiology,0403
+105,Biological Science Technician,0404
+106,Pharmacology,0405
+107,Agricultural Extension Specialist,0406
+108,Ecology,0408
+109,Zoology,0410
+110,Physiology,0413
+111,Entomology,0414
+112,Toxicology,0415
+113,Plant Protection Technician,0421
+114,Botany,0430
+115,Plant Pathology,0434
+116,Plant Physiology,0435
+117,Plant Protection And Quar,0436
+118,Horticulture,0437
+119,Genetics,0440
+120,Rangeland Management,0454
+121,Range Technician,0455
+122,Soil Conservation,0457
+123,Soil Conservation Technician,0458
+124,Irrigation System Operation,0459
+125,Forestry,0460
+126,Forestry Technician,0462
+127,Soil Science,0470
+128,Agronomy,0471
+129,Fish And Wildlife Administration,0480
+130,Fish Biology,0482
+131,Wildlife Refuge Management,0485
+132,Wildlife Biology,0486
+133,Animal Science,0487
+134,Home Economist,0493
+135,Biological Science Student Trainee,0499
+136,Financial Administration And Program,0501
+137,Financial Clerical And Assistance,0503
+138,Financial Management,0505
+139,Accounting,0510
+140,Auditing,0511
+141,Internal Revenue Agent,0512
+142,Accounting Technician,0525
+143,Tax Specialist,0526
+144,Cash Processing,0530
+145,Voucher Examining,0540
+146,Civilian Pay,0544
+147,Military Pay,0545
+148,Budget Analysis,0560
+149,Budget Clerical And Assistance,0561
+150,Financial Institution Examining,0570
+151,Credit Union Examiner,0580
+152,Tax Examining,0592
+153,Insurance Accounts,0593
+154,Financial Management Student Trainee,0599
+155,General Health Science,0601
+156,Medical Officer,0602
+157,Physician Assistant,0603
+158,Nurse Anesthetist (Title 38),0605
+159,Nurse,0610
+160,Practical Nurse,0620
+161,Nursing Assistant,0621
+162,Medical Supply Aide And Technician,0622
+163,Autopsy Assistant,0625
+164,Dietitian And Nutritionist,0630
+165,Occupational Therapist,0631
+166,Physical Therapist,0633
+167,Kinesiotherapy,0635
+168,Rehabilitation Therapy Assistant,0636
+169,Manual Arts Therapist,0637
+170,Recreation/Creative Arts Therapist,0638
+171,Educational Therapist,0639
+172,Health Aid And Technician,0640
+173,Nuclear Medicine Technician,0642
+174,Clinical Laboratory Science,0644
+175,Medical Technician,0645
+176,Pathology Technician,0646
+177,Diagnostic Radiologic Technologist,0647
+178,Therapeutic Radiologic Technologist,0648
+179,Medical Instrument Technician,0649
+180,Medical Technical Assistant,0650
+181,Respiratory Therapist,0651
+182,Pharmacist,0660
+183,Pharmacy Technician,0661
+184,Optometrist,0662
+185,Speech Pathology And Audiology,0665
+186,Orthotist And Prosthetist,0667
+187,Podiatrist,0668
+188,Medical Records Administration,0669
+189,Health System Administration,0670
+190,Health System Specialist,0671
+191,Prosthetic Representative,0672
+192,Hospital Housekeeping Management,0673
+193,Medical Records Technician,0675
+194,Medical Support Assistance,0679
+195,Dental Officer,0680
+196,Dental Assistant,0681
+197,Dental Hygiene,0682
+198,Dental Laboratory Aid And Technician,0683
+199,Public Health Program Specialist,0685
+200,Sanitarian,0688
+201,Industrial Hygiene,0690
+202,Consumer Safety,0696
+203,Environmental Health Technician,0698
+204,Medical And Health Student Trainee,0699
+205,Veterinary Medical Science,0701
+206,Animal Health Technician,0704
+207,Veterinary Student Trainee,0799
+208,General Engineering,0801
+209,Engineering Technical,0802
+210,Safety Engineering,0803
+211,Fire Protection Engineering,0804
+212,Materials Engineering,0806
+213,Landscape Architecture,0807
+214,Architecture,0808
+215,Construction Control Technical,0809
+216,Civil Engineering,0810
+217,Survey Technical,0817
+218,Engineering Draftsman,0818
+219,Environmental Engineering,0819
+220,Construction Analyst,0828
+221,Mechanical Engineering,0830
+222,Nuclear Engineering,0840
+223,Electrical Engineering,0850
+224,Computer Engineering,0854
+225,Electronics Engineering,0855
+226,Electronics Technical,0856
+227,Bioengineering and Biomedical Engineering,0858
+228,Aerospace Engineering,0861
+229,Naval Architecture,0871
+230,Marine Survey Technical,0873
+231,Mining Engineering,0880
+232,Petroleum Engineering,0881
+233,Agricultural Engineering,0890
+234,"Engineer, Ceramics",0892
+235,Chemical Engineering,0893
+236,"Engineer, Welding",0894
+237,Industrial Engineering Technical,0895
+238,Industrial Engineering,0896
+239,Engineering Trainee,0898
+240,Engineering And Architecture Student Trainee,0899
+241,General Legal And Kindred Administration,0901
+242,Law Clerk,0904
+243,Attorney,0905
+244,Hearings And Appeals,0930
+245,Administrative Law Judge,0935
+246,Paralegal Specialist,0950
+247,Employee Benefits Law,0958
+248,Contact Representative,0962
+249,Legal Instruments Examining,0963
+250,Land Law Examining,0965
+251,Passport And Visa Examining,0967
+252,Legal Assistance,0986
+253,Tax Law Specialist,0987
+254,Worker's Compensation Claims Examining,0991
+255,Railroad Retirement Claims Examining,0993
+256,Veterans Claims Examining,0996
+257,Claims Assistance And Examining,0998
+258,Legal Occupations Student Trainee,0999
+259,General Arts And Information,1001
+260,Arts and Information Support,1002
+261,Interior Design,1008
+262,Exhibits Specialist,1010
+263,Museum Curator,1015
+264,Museum Specialist And Technician,1016
+265,Illustrating,1020
+266,Office Drafting,1021
+267,Public Affairs,1035
+268,Language Specialist,1040
+269,Language Clerical,1046
+270,Music Specialist,1051
+271,Theater Specialist,1054
+272,Art Specialist,1056
+273,Photography,1060
+274,Audiovisual Production,1071
+275,Writing And Editing,1082
+276,Technical Writing And Editing,1083
+277,Visual Information,1084
+278,Editorial Assistance,1087
+279,Information And Arts Student Trainee,1099
+280,General Business And Industry,1101
+281,Contracting,1102
+282,Industrial Property Management,1103
+283,Property Disposal,1104
+284,Purchasing,1105
+285,Procurement Clerical And Technician,1106
+286,Property Disposal Clerical And Technician,1107
+287,Business Support,1108
+288,Grants Management,1109
+289,Public Utilities Specialist,1130
+290,Trade Specialist,1140
+291,Commissary Management,1144
+292,Agricultural Program Specialist,1145
+293,Agricultural Marketing,1146
+294,Agricultural Market Reporting,1147
+295,Industrial Specialist,1150
+296,Production Control,1152
+297,Financial Analysis,1160
+298,Insurance Examining,1163
+299,Loan Specialist,1165
+300,Internal Revenue Officer,1169
+301,Realty,1170
+302,Appraising,1171
+303,Housing Management,1173
+304,Building Management,1176
+305,Business And Industry Student Trainee,1199
+306,Patent Technician,1202
+307,Copyright,1210
+308,Copyright Technician,1211
+309,Patent Administration,1220
+310,Patent Adviser,1221
+311,Patent Attorney,1222
+312,Patent Classifying,1223
+313,Patent Examining,1224
+314,Design Patent Examining,1226
+315,Copyright And Patent Student Trainee,1299
+316,General Physical Science,1301
+317,Health Physics,1306
+318,Physics,1310
+319,Physical Science Technician,1311
+320,Geophysics,1313
+321,Hydrology,1315
+322,Hydrologic Technician,1316
+323,Chemistry,1320
+324,Metallurgy,1321
+325,Astronomy And Space Science,1330
+326,Meteorology,1340
+327,Meteorological Technician,1341
+328,Geology,1350
+329,Oceanography,1360
+330,Navigational Information,1361
+331,Cartography,1370
+332,Cartographic Technician,1371
+333,Geodesy,1372
+334,Land Surveying,1373
+335,Geodetic Technician,1374
+336,Forest Products Technology,1380
+337,Food Technology,1382
+338,Textile Technology,1384
+339,Photographic Technology,1386
+340,Document Analysis,1397
+341,Physical Science Trainee,1398
+342,Physical Science Student Trainee,1399
+343,Librarian,1410
+344,Library Technician,1411
+345,Technical Information Services,1412
+346,Archivist,1420
+347,Archives Technician,1421
+348,Library And Archives Student Trainee,1499
+349,General Mathematics And Statistics,1501
+350,Actuarial Science,1510
+351,Operations Research,1515
+352,Mathematics,1520
+353,Mathematics Technician,1521
+354,Mathematical Statistics,1529
+355,Statistics,1530
+356,Statistical Assistant,1531
+357,Cryptographer,1540
+358,Cryptanalysis,1541
+359,Computer Science,1550
+360,Mathematics Or Computer Science Trainee,1598
+361,Mathematics And Statistics Student Trainee,1599
+362,"Equipment Facilities, And Services",1601
+363,"Equipment, Facilities, And Services Assistance",1603
+364,Cemetery Administration Services,1630
+365,Facility Operations Services,1640
+366,Printing Services,1654
+367,Laundry Operations Services,1658
+368,Food Services,1667
+369,Equipment Services,1670
+370,Equipment And Facilities Management Student Trainee,1699
+371,General Education And Training,1701
+372,Education And Training Technician,1702
+373,Education Specialist (DoD Only),1703
+374,Education And Vocational Training,1710
+375,Training Instruction,1712
+376,Vocational Rehabilitation,1715
+377,Education Program,1720
+378,Public Health Educator,1725
+379,Education Research,1730
+380,Education Services,1740
+381,Instructional Systems,1750
+382,Education Student Trainee,1799
+383,"General Inspection, Investigation, Enforcement, And Compliance Series",1801
+384,Compliance Inspection And Support,1802
+385,Investigative Analysis,1805
+386,General Investigation,1810
+387,Criminal Investigation,1811
+388,Game Law Enforcement Series,1812
+389,Air Safety Investigating,1815
+390,Mine Safety And Health Inspection Series,1822
+391,Aviation Safety,1825
+392,Securities Compliance Examining,1831
+393,Wage And Hour Investigation Series,1849
+394,Agricultural Warehouse Inspection Series,1850
+395,Equal Opportunity Investigation,1860
+396,Consumer Safety Inspection,1862
+397,Food Inspection,1863
+398,Public Health Quarantine,1864
+399,Customs And Border Protection Interdiction,1881
+400,Import Compliance Series,1889
+401,Customs Inspection Series,1890
+402,Customs Entry And Liquidating,1894
+403,Customs And Border Protection,1895
+404,Border Patrol Enforcement Series,1896
+405,Investigation Student Trainee,1899
+406,Quality Assurance,1910
+407,Agricultural Commodity Grading,1980
+408,Agricultural Commodity Aid,1981
+409,Quality Inspection Student Trainee,1999
+410,General Supply,2001
+411,Supply Program Management,2003
+412,Supply Clerical And Technician,2005
+413,Inventory Management,2010
+414,Distribution Facilities and Storage Management,2030
+415,Packaging,2032
+416,Supply Cataloging Series,2050
+417,Sales Store Clerical,2091
+418,Supply Student Trainee,2099
+419,Transportation Specialist,2101
+420,Transportation Clerk And Assistant,2102
+421,Transportation Industry Analysis,2110
+422,Railroad Safety,2121
+423,Motor Carrier Safety,2123
+424,Highway Safety,2125
+425,Traffic Management,2130
+426,Freight Rate,2131
+427,Transportation Loss and Damage Claims Examining,2135
+428,Cargo Scheduling,2144
+429,Transportation Operations,2150
+430,Dispatching,2151
+431,Air Traffic Control,2152
+432,Air Traffic Assistance,2154
+433,Marine Cargo,2161
+434,Aircraft Operation,2181
+435,Air Navigation,2183
+436,Aircrew Technician,2185
+437,Technical Systems Program Manager,2186
+438,Transportation Student Trainee,2199
+439,Computer Operator,2203
+440,Computer Technician,2204
+441,Information Technology Management,2210
+442,Information Technology Student Trainee,2299
+443,City Carrier,2310
+444,Clerk And Mail Handler,2315
+445,Sales and Service Distribution,2320
+446,Rural Carrier,2325
+447,Post Office Clerk,2340
+448,Miscellaneous Wire Communications Equipment Install and Maintenance,2501
+449,Telecommunications Mechanic,2502
+450,Wire Communications Cable Splicing,2504
+451,Communications Line Installing and Repairing,2508
+452,Miscellaneous Electronic Equipment Install and Maintenance,2601
+453,Electronic Measurement Equipment Mechanic,2602
+454,Electronics Mechanic,2604
+455,Electronic Industrial Controls Mechanic,2606
+456,Electronic Digital Computer Mechanic,2608
+457,Electronic Integrated Systems Mechanic,2610
+458,Miscellaneous Electrical Installation and Maintenance,2801
+459,Electrician,9940
+460,High Voltage Electrician,2810
+461,Electrical Equipment Repairer,2854
+462,Aircraft Electrician,2892
+463,Miscellaneous Fabric and Leather Work,3101
+464,Fabric Working,3105
+465,Upholstering,3106
+466,Sewing Machine Operating,3111
+467,Broom And Brush Making,3119
+468,Miscellaneous Instrument Work,3301
+469,Optical Instrument Repairing,3306
+470,Instrument Making,3314
+471,Instrument Mechanic,3359
+472,Precision Measurement Equipment Calibrating,3378
+473,Miscellaneous Machine Tool Work,3401
+474,Machining,3414
+475,Toolmaking,3416
+476,Tool Grinding,3417
+477,Die Sinking,3428
+478,Miscellaneous General Services and Support Work,3501
+479,Laboring,3502
+480,Laboratory Working,3511
+481,Coin/Currency Checking,3513
+482,Laboratory Support Working,3515
+483,Railroad Repairing,3546
+484,Custodial Working,3566
+485,Miscellaneous Structural and Finishing Work,3601
+486,Cement Finishing,3602
+487,Masonry,3603
+488,Tile Setting,3604
+489,Plastering,3605
+490,Roofing,3606
+491,Insulating,3610
+492,Miscellaneous Metal Processing,3701
+493,Welding,3703
+494,Non-Destructive Testing,3705
+495,Metalizing,3707
+496,Electroplating,3711
+497,Heat Treating,3712
+498,Leadburning,3716
+499,Battery Repairing,3725
+500,Buffing And Polishing,3727
+501,Metal Phototransferring,3735
+502,Circuit Board Making,3736
+503,Shot Peening Machine Operating,3769
+504,Miscellaneous Metal Work,3801
+505,Metal Forging,3802
+506,Sheet Metal Mechanic,3806
+507,Structural/Ornamental Iron Working,3807
+508,Boilermaking,3808
+509,Mobile Equipment Metal Mechanic,3809
+510,Engraving,3816
+511,Airframe Jig Fitting,3819
+512,Shipfitting,3820
+513,Metal Tank And Radiator Repairing,3858
+514,Metal Forming Machine Operating,3869
+515,"Metal Tube Making, Installing, and Repairing",3872
+516,"Miscellaneous Motion Picture, Radio, TV, and Sound Equipment Operating",3901
+517,Motion Picture Projection,3910
+518,Broadcasting Equipment Operating,3940
+519,Miscellaneous Lens And Crystal Work,4001
+520,Optical Element Working,4005
+521,Prescription Eyeglass Making,4010
+522,Miscellaneous Painting And Paperhanging,4101
+523,Painting,4102
+524,Sign Painting,4104
+525,Miscellaneous Plumbing And Pipefitting,4201
+526,Pipefitting,4204
+527,Plumbing,4206
+528,Fuel Distribution System Mechanic,4255
+529,Miscellaneous Pliable Materials Work,4301
+530,Composite/Plastic Fabricating,4352
+531,Rubber Products Molding,4360
+532,Rubber Equipment Repairing,4361
+533,Molding,4373
+534,Miscellaneous Printing And Reproduction,4401
+535,Bindery Working,4402
+536,Hand Composing,4403
+537,Letterpress Operating,4406
+538,Negative Engraving,4413
+539,Offset Photography,4414
+540,Platemaking,4416
+541,Offset Press Operating,4417
+542,Silk Screen Making And Printing,4419
+543,Photoengraving,4425
+544,Stereotype Platemaking,4440
+545,Bookbinding,4441
+546,Bank Note Engraving,4446
+547,Electrolytic Intaglio Platemaking,4449
+548,Intaglio Die And Plate Finishing,4450
+549,Intaglio Press Operating,4454
+550,Miscellaneous Woodwork,4601
+551,Blocking And Bracing,4602
+552,Wood Working,4604
+553,Wood Crafting,4605
+554,Carpentry,4607
+555,Patternmaking,4616
+556,Timber Working,4639
+557,Form Block Making,4654
+558,Miscellaneous General Maintenance and Operations Work,4701
+559,Model Making,4714
+560,Exhibits Making/Modeling,4715
+561,Railroad Car Repairing,4716
+562,Boat Building And Repairing,4717
+563,General Equipment Mechanic,4737
+564,General Equipment Operating,4741
+565,Utility Systems Repairing-Operating,4742
+566,Research Laboratory Mechanic,4745
+567,Maintenance Mechanic,4749
+568,Cemetery Caretaking,4754
+569,Miscellaneous General Equipment Maintenance,4801
+570,Locksmithing,4804
+571,Medical Equipment Repairing,4805
+572,Office Appliance Repairing,4806
+573,Chemical Equipment Repairing,4807
+574,Custodial Equipment Servicing,4808
+575,Protective & Safe Equipment Fabricating & Repair,4816
+576,Aircraft Survival Flight Equipment Repair,4818
+577,Bowling Equipment Repairing,4819
+578,Vending Machine Repairing,4820
+579,Tool And Equipment Repairing,4840
+580,Mechanical Parts Repairing,4848
+581,Bearing Reconditioning,4850
+582,Domestic Appliance Repairing,4855
+583,Miscellaneous Plant And Animal Work,5001
+584,Farming,5002
+585,Gardening,5003
+586,Pest Controlling,5026
+587,Insects Production Working,5031
+588,Dairy Farming,5034
+589,Livestock Ranching/Wrangling,5035
+590,Tree Trimming And Removing,5042
+591,Animal Caretaking,5048
+592,Miscellaneous Occupations,5201
+593,Gas And Radiation Detecting,5205
+594,Rigging,5210
+595,Shipwright,5220
+596,Lofting,5221
+597,Test Range Tracking,5235
+598,Miscellaneous Industrial Equipment Maintenance,5301
+599,Air Conditioning Equipment Mechanic,5306
+600,Heating & Boiler Plant Equipment Mechanic,5309
+601,Kitchen/Bakery Equipment Repairing,5310
+602,Elevator Mechanic,5313
+603,Laundry & Dry Cleaning Equipment Repairing,5317
+604,Lock And Dam Repairing,5318
+605,Oiling And Greasing,5323
+606,Marine Machinery Mechanic,5334
+607,Industrial Furnace Building And Repairing,5341
+608,Production Machinery Mechanic,5350
+609,Industrial Equipment Mechanic,5352
+610,Door Systems Mechanic,5364
+611,Physiological Trainer Mechanic,5365
+612,Powered Support Systems Mechanic,5378
+613,Gasdynamic Facility Installing and Repairing,5384
+614,Miscellaneous Industrial Equipment Operation,5401
+615,Boiler Plant Operating,5402
+616,Utility Systems Operating,5406
+617,Electrical Power Controlling,5407
+618,Sewage Disposal Plant Operating,5408
+619,Water Treatment Plant Operating,5409
+620,Fuel Distribution System Operating,5413
+621,Air Conditioning Equipment Operating,5415
+622,Stationary-Engine Operating,5419
+623,Sandblasting,5423
+624,Lock And Dam Operating,5426
+625,Chemical Plant Operating,5427
+626,Carton/Bag Making Machine,5435
+627,Elevator Operating,5438
+628,Testing Equipment Operating,5439
+629,Packaging Machine Operating,5440
+630,Textile Equipment Operating,5446
+631,Aircraft Weight And Balance Operating,5485
+632,Miscellaneous Transportation/Mobile Equipment Operating,5701
+633,Motor Vehicle Operating,5703
+634,Fork Lift Operating,5704
+635,Tractor Operating,5705
+636,Engineering Equipment Operating,5716
+637,Crane Operating,5725
+638,Drill Rig Operating,5729
+639,Braking-Switching And Conducting,5736
+640,Locomotive Engineering,5737
+641,Railroad Maintenance Vehicle Operating,5738
+642,Airfield Clearing Equipment Operating,5767
+643,Ship Operating,5782
+644,Riverboat Operating,5784
+645,Small Craft Operating,5786
+646,Deckhand,5788
+647,Miscellaneous Transportation/Mobile Equipment Maintenance,5801
+648,Heavy Mobile Equipment Mechanic,5803
+649,Mobile Equipment Servicing,5806
+650,Automotive Mechanic,5823
+651,Electromotive Equipment Mechanic,5876
+652,"Miscellaneous Ammunitions, Explosives, and Toxic Matter Work",6501
+653,Explosives Operating,6502
+654,Munitions Destroying,6505
+655,Missile/Toxic Materials Handling,6511
+656,Explosives Test Operating,6517
+657,Miscellaneous Armament Work,6601
+658,Artillery Repairing,6605
+659,Artillery Testing,6606
+660,Small Arms Repairing,6610
+661,Ordnance Equipment Mechanic,6641
+662,Aircraft Ordnance Systems Mechanic,6652
+663,Special Weapons Systems Mechanic,6656
+664,Miscellaneous Warehousing and Stock Handling,6901
+665,Coal Handling,6903
+666,Tools And Parts Attending,6904
+667,Materials Handler,6907
+668,Materials Expediting,6910
+669,Materials Examining And Identifying,6912
+670,Hazardous Waste Disposing,6913
+671,Store Working,6914
+672,Bulk Money Handling,6941
+673,Aircraft Freight Loading,6968
+674,Miscellaneous Packing And Processing,7001
+675,Packing,7002
+676,Preservation Servicing,7006
+677,Equipment Cleaning,7009
+678,"Miscellaneous Laundry, Dry Cleaning, and Pressing",7301
+679,Laundry Working,7304
+680,Laundry Machine Operating,7305
+681,Miscellaneous Food Preparation and Serving,7401
+682,Baking,7402
+683,Cooking,7404
+684,Bartending,7405
+685,Meatcutting,7407
+686,Food Service Working,7408
+687,Waiter,7420
+688,Miscellaneous Personal Services,7601
+689,Barbering,7603
+690,Miscellaneous Fluid Systems Maintenance,8201
+691,Pneudraulic Systems Mechanic,8255
+692,Aircraft Pneudraulic Systems Mechanic,8268
+693,Miscellaneous Engine Overhaul,8601
+694,Aircraft Engine Mechanic,8602
+695,Small Engine Mechanic,8610
+696,Liquid Fuel Rocket Engine Mechanic,8675
+697,Miscellaneous Aircraft Overhaul,8801
+698,Aircraft Propeller Mechanic,8810
+699,Aircraft Mechanical Parts Repairing,8840
+700,Aircraft Mechanic,8852
+701,Aircraft Attending,8862
+702,Airframe Test Operating,8882
+703,United States Probation Officer,8999
+704,Miscellaneous Film Processing,9001
+705,Film Assembling And Repairing,9003
+706,Motion Picture Developing/Printing Machine Operating,9004
+707,Miscellaneous Vessel Jobs,9901
+708,Master,9902
+709,Chief Officer Cable,9903
+710,Ship Pilot,9904
+711,First Officer,9905
+712,Second Officer,9906
+713,Third Officer,9907
+714,Ship's Communication Officer,9908
+715,Radio Officer,9909
+716,First Assistant Radio Officer,9910
+717,Radio Electronics Officer,9911
+718,First Assistant Radio Electronics Officer,9912
+719,Relief Deck Officer,9913
+720,Damage Control Officer,9914
+721,Assistant Damage Control Officer,9915
+722,Master-Mate (Fishing Vessel),9916
+723,Deck Midshipman,9917
+724,Damage Control Leader,9918
+725,Damage Control Assistant Leader,9919
+726,Boatswain,9920
+727,Carpenter,9921
+728,Carpenter-Maintenance,9922
+729,Boatswain's Mate,9923
+730,Able Seaman,9924
+731,Able Seaman-Maintenance,9925
+732,Quartermaster,9926
+733,Seaman-Fisherman,9927
+734,Ordinary Seaman,9928
+735,Damage Controlman,9929
+736,Operations Chief (OC),9930
+737,Chief Engineer,9931
+738,First Assistant Engineer,9932
+739,Second Assistant Engineer,9933
+740,Third Assistant Engineer,9934
+741,Relief Engineer,9935
+742,Engine Midshipman,9936
+743,Chief Electrician,9939
+744,Electrician-Maintenance,9941
+745,Second Electrician,9942
+746,Third Electrician,9943
+747,Electronics Technician,9944
+748,Refrigeration Engineer,9945
+749,Second Refrigeration Engineer,9946
+750,Third Refrigeration Engineer,9947
+751,Plumber,9948
+752,Assistant Plumber,9949
+753,Plumber-Machinist,9950
+754,Deck Engineer,9951
+755,Deck Engineer-Machinist,9952
+756,Deck Engineer-Mechanic,9953
+757,Unlicensed Junior Engineer,9954
+758,Pumpman,9955
+759,Engineman,9956
+760,Engine Utilityman,9957
+761,Evaporator-Utilityman,9958
+762,Machinist,9959
+763,Oiler,9960
+764,Oiler Diesel,9961
+765,Refrigeration Oiler,9962
+766,Fireman,9963
+767,Fireman-Watertender,9964
+768,Wiper,9965
+769,Chief Steward,9968
+770,Third Steward,9969
+771,Chief Cook,9971
+772,Steward Cook,9972
+773,Second Cook,9973
+774,Third Cook,9974
+775,Assistant Cook,9975
+776,Cook-Baker,9976
+777,Second Cook-Baker,9977
+778,Night Cook And Baker,9978
+779,Steward Baker,9979
+780,Third Pantryman,9980
+781,Galleyman,9981
+782,Laundryman,9982
+783,Assistant Laundryman,9983
+784,Messman,9984
+785,Steward Utilityman,9985
+786,Purser,9988
+787,Junior Purser,9989
+788,Disbursing Officer,9990
+789,Supply Officer,9991
+790,Assistant Supply Officer,9992
+791,Junior Supply Officer,9993
+792,Assistant Storekeeper,9994
+793,Chief Radio Electronics Technician,9995
+794,Medical Services Officer,9996
+795,First Radio Electronics Technician,9997
+796,Yeoman-Storekeeper,9998
+797,Second Radio Electronics Technician,9999
