@@ -1,0 +1,448 @@
+Row Labels,Sum of Student population
+ Miami,112915
+ New York,80709
+ Houston,79282
+ Los Angeles,72573
+ Athens,72216
+ Columbus,69246
+ College Station,68679
+ Orlando,68475
+ Atlanta,67039
+ University Park,66125
+ Columbia,64638
+ Adelphi,60603
+ Gainesville,55803
+ San Marcos,54616
+ Denton,53759
+ Austin,51832
+ Tempe,51585
+ Tallahassee,51026
+ Kingston,50800
+ Minneapolis,50734
+East Lansing,50351
+ New Brunswick,50254
+ Champaign,49702
+ Arlington,47899
+ Seattle,47400
+ Madison,46845
+ Ann Arbor,46716
+ Richmond,46512
+ West Lafayette,44474
+ Tucson,44097
+ Tampa,43846
+ Bloomington,43503
+ Chicago,42750
+ Berkeley,42501
+ Brooklyn,42068
+College Park,41200
+ Buffalo,40621
+ Fullerton,40280
+ Northridge,40212
+ Orem,39931
+ Philadelphia,39740
+ San Antonio,38821
+ Tuscaloosa,38390
+ Lubbock,38209
+ Davis,38167
+ La Jolla,37887
+ Cincinnati,37886
+ Baton Rouge,37676
+ Long Beach,37466
+ Fairfax,37316
+ Bowling Green,36996
+ Boulder,36681
+ Irvine,36032
+ Newark,35543
+ Raleigh,35479
+ Kennesaw,35420
+ San Jose,35400
+ San Diego,35303
+ Ames,34992
+ Blacksburg,34683
+ Fayetteville,34096
+ Portland,33851
+ Las Vegas,33494
+ Fort Collins,33478
+ Greensboro,32248
+ McAllen,31949
+ Sacramento,31902
+ Iowa City,31656
+ Pullman,31478
+ Flagstaff,31066
+ Corvallis,30986
+ Huntsville,30949
+ Lexington,30867
+ Amherst,30593
+Auburn,30440
+ Chapel Hill,30011
+ San Francisco,29778
+ Boca Raton,29772
+ Charlotte,29710
+ Indianapolis,29579
+ Norfolk,29380
+ Baltimore,29258
+ Knoxville,28894
+ Richardson,28755
+ Greenville,28718
+ Pittsburgh,28673
+ Edinburg,28644
+ Norman,28564
+ Springfield,28272
+ Ogden,28247
+ Kent,28122
+ Logan,27932
+ Lawrence,27690
+ Milwaukee,27550
+ Storrs,27412
+ Detroit,27025
+ Morgantown,26864
+ Normal,26741
+ Pomona,26598
+ Statesboro,26408
+ Stony Brook,26256
+ Santa Barbara,25976
+ Lincoln,25820
+ Lawrence Street Center,25645
+ Boise,25504
+ Jacksonville,25255
+ El Paso,25151
+ Fresno,25137
+ Clemson,24951
+ Hammond,24771
+ Stillwater,24690
+ Allendale,24677
+ Charlottesville,24639
+ Albuquerque,24319
+ Albany,24315
+ Riverside,23922
+ Towson,22923
+ Eugene,22644
+ Kalamazoo,22562
+ Mississippi,22456
+ Anderson Hall,22221
+ Charleston,22072
+ San Luis Obispo,22013
+ Mississippi State,21974
+ Birmingham,21923
+ Muncie,21884
+ Conway,21818
+ Harrisonburg,21751
+ Murfreesboro,21631
+ Mount Pleasant,21622
+ Reno,21463
+ Memphis,21458
+ Montclair,21115
+ San Bernardino,20238
+ Toledo,20237
+ Denver,20192
+ Oxford,19934
+ Queens,19746
+ Dahlonega,19722
+ Santa Cruz,19700
+ Glassboro,19465
+ Rochester Hills,19309
+ Ypsilanti,19123
+ Boone,19108
+ Akron,18731
+ Lowell,18242
+ Vestal,17768
+ Honolulu,17710
+ Chico,17578
+ West Chester,17527
+ Dekalb,17169
+ Lafayette,17123
+ Troy,16981
+ Bozeman,16814
+ Wilmington,16747
+ Carson,16732
+ Saint Louis,16441
+ Oshkosh,16410
+ Kansas City,16375
+ Boston,16164
+ Bellingham,16121
+ San Juan,16106
+ Cleveland,16069
+ Cocoa,15820
+ Wichita,15778
+ Hayward,15628
+ Hays,15523
+ Omaha,15431
+ Edmond,15393
+ Thompson Hall,15298
+ Fort Myers,15031
+ Mobile,14834
+ Bronx,14787
+ Beaumont,14783
+ Highland Heights,14764
+ Anchorage,14644
+ Hattiesburg,14509
+ Mankato,14374
+ Johnson City,14317
+ Las Cruces,14289
+ Union,14056
+ Saint Cloud,13928
+ Grand Forks,13847
+ Wayne,13831
+ Fargo,13796
+ Carrollton,13733
+ Jonesboro,13709
+ Blumenthal Hall,13451
+ Burlington,13395
+ Edwardsville,13281
+ Staten Island,13247
+ Bellevue,13226
+ Mayaguez,13224
+ Huntington,13204
+ Nacogdoches,13144
+ Colorado Springs,13123
+ Stephenville,13109
+ Whitewater,13059
+ Terre Haute,13044
+ Pensacola,12847
+ Carbondale,12817
+ Cheney,12633
+ Laramie,12450
+ Commerce,12411
+ Pocatello,12363
+ Ellensburg,12342
+ Brookings,12104
+ Russellville,12101
+ Corpus Christi,11929
+ Ruston,11909
+ Moscow,11841
+ New Britain,11822
+ Cullowhee,11639
+ Chattanooga,11638
+ Eau Claire,11604
+ Warrensburg,11487
+ Indiana,11483
+ Florence,11428
+ Orono,11404
+ Valdosta,11211
+ Cedar Falls,11187
+ Natchitoches,11081
+ MS2025,11071
+ Duluth,11024
+ Bridgewater,10990
+ Evansville,10986
+ Montana,10962
+ Clarksville,10954
+ Bakersfield,10816
+ La Crosse,10597
+ Turlock,10577
+ Little Rock,10515
+ New Orleans,10507
+ San Angelo,10387
+ Tyler,10206
+ Cedar City,10196
+ Morehead,10195
+ Cookeville,10186
+ Fort Wayne,10139
+ Vermillion,10066
+ New Haven,10050
+ Canyon,10029
+ Saint George,9950
+ Montgomery,9624
+ Galloway,9621
+ Prairie View,9516
+ Grand Junction,9492
+ Dearborn,9460
+ Rohnert Park,9459
+ Murray,9454
+ Radford,9335
+ Monroe,9291
+ Platteville,8955
+ Bloomsburg,8909
+ Williamsburg,8817
+ Slippery Rock,8803
+ Menomonie,8770
+ Jamaica,8693
+ Rolla,8601
+ Salisbury,8567
+ Green Bay,8566
+ Kingsville,8541
+ University Center,8515
+ North Dartmouth,8513
+ Macomb,8502
+ Augusta,8458
+ Salem,8338
+ Kutztown,8290
+ Brockport,8287
+ Durham,8207
+ Jersey City,7991
+ Oswego,7986
+ Arcata,7972
+ Tahlequah,7879
+ Saint Paul,7861
+ Macon,7802
+ Winona,7792
+ Nashville,7774
+ Providence,7766
+ Lyle Hall,7746
+ Ewing,7686
+ Lake Charles,7647
+ New Paltz,7608
+ Marquette,7595
+ Seaside,7540
+ Flint,7532
+ Camarillo,7488
+ Fairbanks,7404
+ California,7310
+ Jackson,7250
+ Fitchburg,7199
+ Houghton,7172
+ Camden,7171
+ Marshall,7167
+ Pembroke,7137
+ Martin,7048
+ Morrow,7038
+ Shreveport,7036
+ Milledgeville,6989
+ Maryville,6857
+ Pueblo,6736
+ Pittsburg,6625
+ Topeka,6571
+ Fort Smith,6557
+ Oneonta,6543
+ East Stroudsburg,6412
+ Shippensburg,6381
+ Kearney,6327
+ Golden,6325
+ Bowie,6320
+ Ashland,6278
+ Spartanburg,6175
+ Mahwah,6174
+ River Falls,6135
+ Wichita Falls,6102
+ Westfield,6100
+ Joplin,6006
+ Portales,6005
+ Bothell,5970
+ Moorhead,5860
+ Kirksville,5853
+ Odessa,5834
+ Emporia,5796
+ Plattsburgh,5704
+ Saint Joseph,5669
+ Danbury,5642
+ Framingham,5565
+ Tacoma,5354
+ Williamsport,5322
+ Frostburg,5295
+ Weatherford,5267
+ South Bend,5214
+ Willimantic,5208
+ Grambling,5205
+ Winston-Salem,5190
+ Monmouth,5185
+ New Albany,5144
+ Bemidji,5111
+ Mesa,5095
+ Old Westbury,5087
+ Plymouth,5059
+ Newport News,4957
+ Middletown,4933
+ Farmville,4911
+ Clarion,4864
+ Edinboro,4834
+ Fredericksburg,4727
+ Fredonia,4655
+ West  Point,4589
+ Dover,4586
+ Durant,4542
+ Annapolis,4512
+ Magnolia,4472
+ Petersburg,4385
+ Suite 3800,4336
+ Victoria,4336
+ Erie,4312
+ Kenosha,4295
+ Lawton,4290
+ Washington,4244
+ Bayamon,4190
+ Savannah,4077
+ Arkadelphia,3961
+ Gary,3959
+ Fairmont,3947
+ Asheville,3762
+ Dallas,3757
+ Abington,3746
+ UOG Station,3744
+ Alfred,3737
+ Aiken,3699
+ Institute,3692
+ Lewiston,3684
+ Alcorn State,3658
+ Shepherdstown,3648
+ Arecibo,3638
+ Ada,3576
+ Keene,3543
+ Potsdam,3521
+ Lock Haven,3418
+ Mangilao,3406
+ Princess Anne,3193
+ Minot,3189
+ Greenwood,3044
+ Utica,3023
+ Orangeburg,3022
+ Morrisville,2986
+ La Grande,2978
+ Americus,2907
+ Ponce,2828
+ Fort Valley,2776
+ Alpine,2739
+ Rapid City,2654
+ Superior,2603
+ Johnstown,2600
+ Johnson,2590
+ Pine Bluff,2579
+ Reading,2578
+ Jefferson City,2478
+ Killeen,2464
+ Lincoln University,2376
+ Itta Bena,2285
+ Castleton,2196
+ Langston,2119
+ Peru,2114
+ Wilberforce,2099
+ Texarkana,2097
+ Wise,2065
+ Farmington,2040
+ Alva,1992
+ Sault Ste Marie,1991
+ Charlotte Amalie,1984
+ Socorro,1895
+ Butte,1844
+ Fort Kent,1791
+ Frankfort,1778
+ Beckley,1755
+ Elizabeth City,1677
+ Mansfield,1629
+ St. Mary's City,1582
+ Morris,1552
+ Valley City,1547
+ North Adams,1452
+ Dickinson,1392
+ Media,1351
+ Bluefield,1275
+ Goodwell,1262
+ Mayville,1184
+ Dunmore,992
+ York,948
+ Espanola,926
+ Center Valley,912
+ Mont Alto,830
+ Manchester,750
+ Hazleton,676
+ Monaca,622
+ Schuylkill Haven,609
+ New Kensington,585
+ DuBois,564
+ Cheyney,466
+ McKeesport,462
+ Lehman,438
+ Sierra Vista,429
+(blank),
+ state or local governments,
+ transfer-out rate and the net price are not applicable to institutions that do not have full-time,
+Grand Total,7419773
